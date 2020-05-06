@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import click
 
-#var=
+var=
 
 @click.command()
 def hello():
